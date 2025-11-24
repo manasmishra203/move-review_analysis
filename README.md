@@ -1,4 +1,4 @@
-# Movie Review Sentiment Analysis (Beginner-Friendly Project)
+# Movie Review Sentiment Analysis
 
 A simple Python project that predicts whether a movie review is **positive** or **negative** using **word frequency counting**.  
 The project also includes a **random dataset generator**, which automatically creates positive and negative reviews every time the program runs.
